@@ -2,7 +2,7 @@
     "name": "justoverclock/best-answer-badge",
     "description": "Display a best answer badge when users reach the minimum best answer goal provided by admin",
     "keywords": [
-        "flarum"
+        "best answer badge"
     ],
     "type": "flarum-extension",
     "license": "MIT",
@@ -24,11 +24,11 @@
     "extra": {
         "flarum-extension": {
             "title": "BA Badge",
-            "category": "",
+            "category": "features",
             "icon": {
-                "name": "",
-                "color": "",
-                "backgroundColor": ""
+                "name": "fas fa-graduation-cap",
+                "color": "white",
+                "backgroundColor": "blue"
             }
         },
         "flarum-cli": {
