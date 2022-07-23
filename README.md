@@ -4,6 +4,11 @@
 
 A [Flarum](http://flarum.org) extension. Display a best answer badge when users reach the minimum best answer goal provided by admin
 
+![Senza titolo](https://user-images.githubusercontent.com/79002016/180600071-cfd8fa46-3b4e-4fe6-a638-c14bf15ed688.png)
+
+![Immagine 2022-07-23 114513](https://user-images.githubusercontent.com/79002016/180600092-cfdb3dd3-432e-4366-ba67-101b189e238d.png)
+
+
 ## Installation
 
 Install with composer:
